@@ -1,5 +1,7 @@
 # next-prisma-auth-starter
 
+LIVE DEMO: https://next-prisma-auth-starter.vercel.app/
+
 This is an example site of how to do auth in [next.js](https://nextjs.org/) with [prisma](https://www.prisma.io/docs/getting-started/quickstart).
 
 inspired by [next-auth-example](https://github.com/nextauthjs/next-auth-example), [nextjs-auth-rbac-starter](https://github.com/manumura/nextjs-auth-rbac-starter)
